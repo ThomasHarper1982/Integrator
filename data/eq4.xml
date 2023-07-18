@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <equation>
+        <operation>simplify</operation>
+        <equation_string>a^b^c</equation_string>
+        <lower_bound></lower_bound>
+        <lower_bound></lower_bound>
+        <variable></variable>
+    </equation>
+</workspace>
