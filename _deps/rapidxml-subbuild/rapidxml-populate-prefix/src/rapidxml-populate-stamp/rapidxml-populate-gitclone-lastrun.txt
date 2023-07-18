@@ -1,3 +1,0 @@
-repository='https://github.com/CodeFinder2/rapidxml.git'
-module=''
-tag='origin'
